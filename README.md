@@ -1,1 +1,1 @@
-# trygithub.io
+# try.github.io
